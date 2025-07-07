@@ -1,0 +1,11 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 50"
+  className="absolute top-[80px] left-[700px] w-[80px] h-[40px] text-blue-300 rotate-[-10deg]"
+  fill="none"
+  stroke="currentColor"
+  strokeWidth="2"
+>
+  <path d="M0,40 C30,0 70,0 100,30" />
+  <path d="M95,25 L100,30 L95,35" strokeWidth="2" strokeLinecap="round" />
+</svg>
