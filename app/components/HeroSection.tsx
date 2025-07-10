@@ -16,7 +16,7 @@ const HeroSection: React.FC = () => {
         Lead the<br />
         Future.
         </h1>
-{MediamodifierDesign}
+{/* {MediamodifierDesign} */}
 
 
         <div className="mt-10 flex space-x-6 float-right">
